@@ -90,5 +90,11 @@ globalData.appData = {
 <li>
     <a title="LTA Receipt" class="sidebar-links" href="/tools/lta-receipt/index.html">LTA Receipt</a>
 </li>
+<li>
+    <a title="URL Shortener" class="sidebar-links" href="https://trimlink.ai?utm_source=freeforonline&amp;utm_medium=ffw&amp;utm_campaign=ffw_share" target="_blank" rel="noopener noreferrer">URL Shortener</a>
+</li>
+<li>
+    <a title="Helper Bill" class="sidebar-links" href="/tools/helper-bill">Helper Bill</a>
+</li>
 </ul></div>`
 }
