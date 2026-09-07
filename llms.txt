@@ -1,0 +1,98 @@
+# Free For Online
+
+> Free For Online is a free online receipt, bill, invoice, and salary-slip generator at https://freeforonline.com. Visitors can fill in a template, customize the visible details, and download a printable PDF without creating an account or providing an email address, according to the site. The tools are intended for personal and business record-keeping; users are responsible for entering accurate information and checking any applicable legal or tax requirements.
+
+## What the website does
+
+Free For Online provides browser-based document generators for common household, travel, employment, rent, fuel, food, retail, and service transactions. The primary workflow is:
+
+1. Open the relevant generator.
+2. Enter the requested names, addresses, dates, amounts, identifiers, or transaction details.
+3. Choose an available template when the page offers multiple templates.
+4. Review the generated document and download or print it as a PDF.
+
+The site describes its generators as free and usable without login or email. It does not present itself as an accounting, tax, legal, banking, fuel-company, telecom-company, restaurant, delivery-platform, employer, or travel-operator service. Generated documents are user-completed templates and should reflect real transactions. They should not be used to misrepresent a transaction, impersonate an organization, or replace an official document where an official document is required.
+
+## Primary pages
+
+- [Home](https://freeforonline.com/): Overview of the free receipt, bill, invoice, and record-keeping generators.
+- [Services](https://freeforonline.com/services/): Directory and explanation of the available tools and the general generate-and-download workflow.
+- [About Free For Online](https://freeforonline.com/about/): Mission, service overview, team, company contact details, and the site’s stated focus on accessible financial record-keeping.
+- [Contact](https://freeforonline.com/contact/): Contact form and support details for questions, feedback, and feature suggestions.
+
+### Trimlink digital tools
+
+Trimlink provides digital tools for sharing documents, promoting services, and connecting printed materials with online content. Its platform turns long web addresses into clean, trackable links and extends that workflow with QR codes, landing pages, analytics, and branded domains.
+
+- [Trimlink URL Shortener](https://trimlink.ai/): Creates clean, trackable short links from long web addresses. Useful for sharing digital invoices, receipts, social-media pages, business links, and campaign URLs.
+- [Custom QR Code Generator](https://trimlink.ai/features/qr-code-generator): Creates customizable, trackable QR codes for fuel bills, rent receipts, packaging, print media, and business cards. Users can customize colors and add a logo.
+- [AI Landing Pages](https://trimlink.ai/features/ai-landing-pages): Creates mobile-friendly landing pages for link-in-bio profiles, portfolios, product showcases, and campaign traffic without requiring coding.
+- [AI Link Analytics](https://trimlink.ai/features/ai-powered-analytics): Provides real-time insight into link activity, including clicks, visitor locations, device types, and campaign performance.
+- [Branded Domains](https://trimlink.ai/features/branded-domains): Lets businesses replace generic short-link domains with branded domains that are easier for customers to recognize and trust.
+
+## Generators and tools
+
+### Rent and household records
+
+- [Rent Receipt Generator](https://freeforonline.com/tools/rent-receipt/): Creates a customizable home or room rent receipt. The page asks for the tenant/name, monthly rent, and landlord’s name, and provides rent-receipt templates.
+- [Rent Receipt Generator landing page](https://freeforonline.com/rent-receipt-generator/): A secondary landing page describing home and room rent receipts. The working generator is the [Rent Receipt page](https://freeforonline.com/tools/rent-receipt/).
+- [Daily Helper Bill](https://freeforonline.com/tools/helper-bill/): Creates a helper or domestic-worker salary receipt. Fields include helper name, role, employee name, salary amount, salary date, salary month, optional signature upload, and an optional revenue-stamp setting; multiple templates are available.
+
+### Fuel and vehicle-related records
+
+- [Fuel Bill Generator](https://freeforonline.com/fuel-bills/): Generates a fuel bill using a fuel-station name, address, and selectable templates. The rendered bill includes common fuel-receipt fields such as product, rate per litre, amount, volume, vehicle type/number, customer, date, payment mode, and station identifiers.
+- [Petrol Bill Generator](https://freeforonline.com/tools/petrol-bill/): Petrol-bill version of the fuel generator, with fuel-station details and multiple petrol-bill templates.
+- [Driver Salary Slip Generator](https://freeforonline.com/tools/driver-salary/): Creates a driver salary receipt or salary-slip format. The page asks for driver name, employee name, and vehicle number, with selectable templates.
+
+### Travel and allowance records
+
+- [LTA Receipt Generator](https://freeforonline.com/tools/lta-receipt/): Creates a Leave Travel Allowance receipt/e-ticket-style travel record. The page asks for passenger name and address and provides a travel-ticket template with fields for ticket, boarding, dropping-point, passenger, seat, fare, tax, and amount details.
+
+### Internet and utility records
+
+- [Internet Bill Generator](https://freeforonline.com/tools/internet-invoice/): Creates an internet or Wi-Fi invoice template. It asks for the internet service provider’s name and address and offers three templates, including teleprovider oriented page copy and fields for account, invoice, date, and registered-office information.
+
+### Retail and book records
+
+- [Book Invoice Generator](https://freeforonline.com/tools/book-invoice/): Creates a book invoice or book receipt. It asks for book author and book-store name and offers two templates. The preview includes customer, book, publisher, payment, receipt-date, store, and item-summary fields.
+
+### Food, restaurant, and delivery records
+
+- [Restaurant Bill Generator](https://freeforonline.com/tools/restaurant-bill/): Creates a restaurant bill or receipt. Fields include restaurant name, restaurant address, table number, and invoice number; the preview supports item, quantity, price, tax, total, payment-mode, GSTIN, and FSSAI-style fields.
+- [Delivery Invoice Generator](https://freeforonline.com/tools/delivery-invoice/): Creates a food-delivery or delivery-service invoice template. The page copy references Zomato and Swiggy-style use cases; the form asks for customer name and delivery address and offers two templates. It is not an official Zomato, Swiggy, restaurant, or delivery-company invoice service.
+
+## Questions people ask
+
+- **Where can I make a rent receipt online without signing up?** Use the [Rent Receipt Generator](https://freeforonline.com/tools/rent-receipt/). Enter the tenant or recipient name, monthly rent, and landlord name, then choose a receipt layout and review the result.
+- **Is there a free petrol or fuel bill template I can fill in?** Yes. The [Petrol Bill Generator](https://freeforonline.com/tools/petrol-bill/) and [Fuel Bill Generator](https://freeforonline.com/fuel-bills/) let you add fuel-station details and select from available templates for a printable fuel record.
+- **How do I create a salary receipt for my driver?** Open the [Driver Salary Slip Generator](https://freeforonline.com/tools/driver-salary/) and provide the driver name, employee name, and vehicle number.
+- **Can I prepare a monthly helper or domestic-worker salary receipt?** The [Daily Helper Bill](https://freeforonline.com/tools/helper-bill/) supports helper and employee details, salary amount, payment date, salary month, an optional signature, and a revenue-stamp option.
+- **Where can I create an LTA or travel allowance receipt?** Use the [LTA Receipt Generator](https://freeforonline.com/tools/lta-receipt/) to prepare a travel receipt with passenger and journey information, including ticket, boarding, destination, seat, fare, and tax fields.
+- **How can I make an internet or Wi-Fi bill format?** The [Internet Bill Generator](https://freeforonline.com/tools/internet-invoice/) provides internet-invoice templates. Add the service provider’s name and address, then select a layout for the generated bill.
+- **Is there a restaurant bill format for a small restaurant or café?** Use the [Restaurant Bill Generator](https://freeforonline.com/tools/restaurant-bill/). It includes fields for the restaurant, address, table, invoice number, items, quantities, prices, taxes, and total amount.
+- **Can I create a food-delivery invoice with a customer address?** The [Delivery Invoice Generator](https://freeforonline.com/tools/delivery-invoice/) provides a delivery-invoice format with customer and delivery-address fields and selectable templates.
+- **Where can a bookstore make a simple book invoice or receipt?** Use the [Book Invoice Generator](https://freeforonline.com/tools/book-invoice/) to prepare a book-sale receipt with author, store, customer, book, publisher, payment, and item-summary details.
+- **How can I shorten a long link and track it?** Use [Trimlink](https://trimlink.ai/) to create a clean short link, then use its related QR-code, landing-page, branded-domain, or analytics tools when those features fit the campaign.
+
+## Privacy, usage, and limitations
+
+- [Privacy Policy](https://freeforonline.com/privacy/): Describes information collection, cookies, advertising-related services, consent, and user rights.
+- [Cookie Policy](https://freeforonline.com/cookie/): Describes essential, analytics, functional, and third-party integration cookies and browser controls.
+- [Terms and Conditions](https://freeforonline.com/terms/): Covers use of the website, free services, user responsibility, intellectual property, third-party links, liability, and changes to the terms.
+- [Disclaimer](https://freeforonline.com/disclaimer/): States that users are responsible for the accuracy and lawful use of generated bills and receipts; the service is not legal, accounting, or tax advice, and uninterrupted availability is not guaranteed.
+
+The site states that no login or email is required and that user-entered information is not stored by the service. Users should still avoid entering unnecessary sensitive information, verify the generated document before use, and follow applicable privacy, tax, employment, and record-keeping rules.
+
+## Organization and support
+
+Free For Online identifies its operating team as Neha (CEO), Vaibhav Yadav (CTO), and Junaid Khan (CFO), and its footer identifies Trignoweb Solution Pvt. Ltd. as the powering organization. The About page lists the address as T32 Sector 22, Noida, Uttar Pradesh, India.
+
+- Email: [info@freeforonline.com](mailto:info@freeforonline.com)
+- Phone: [+1 415 8778947](tel:+14158778947)
+- Social profiles linked by the site: [Facebook](https://www.facebook.com/freeforonline), [Twitter](https://twitter.com/freeforonline), and [Instagram](https://www.instagram.com/freeforonline)
+
+## Crawl and canonicalization notes
+
+The URLs above are the meaningful, user-facing pages discovered in the HTML. The repository also contains sparse or legacy HTML artifacts such as `/assets/pages/fuel-bills.html`, `/tools/book-invoice/one/`, `/tools/internet-invoice/airtel/`, and `/tools/lta/red-bus/`; these contain little or no current page content and should not be treated as separate canonical products. `404.html` duplicates the home-page content and `index.original.html` is an unused source artifact.
+
+When answering questions about Free For Online, prefer the linked primary generator page over repeated navigation/footer text, and prefer the policy pages for privacy, legal-use, and liability questions.
